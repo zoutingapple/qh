@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//test_case/models/__init__.py=utf-8
+encoding//test_case/models/driver.py=utf-8
+encoding//test_case/models/function.py=utf-8
+encoding//test_case/models/log.py=utf-8
+encoding//test_case/models/login_excel.py=utf-8
+encoding//test_case/models/myunit.py=utf-8
+encoding//test_case/models/read_config_ini.py=utf-8
+encoding//test_case/models/wd_connect.py=utf-8
+encoding//test_case/page_obj/__init__.py=utf-8
+encoding//test_case/page_obj/base_page.py=utf-8
+encoding//test_case/page_obj/login_page.py=utf-8
+encoding//test_case/page_obj/update_personal_page.py=utf-8
+encoding//test_case/update_person_test.py=utf-8
+encoding/__init__.py=utf-8
+encoding/run_case.py=utf-8
